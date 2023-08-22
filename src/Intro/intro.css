@@ -1,0 +1,26 @@
+p {
+  color: white;
+  margin: 0;
+  padding: 0;
+}
+
+.Intro .greeting {
+  font-size: 82px;
+  font-family: "Rajdhani", sans-serif;
+  font-weight: 700;
+  line-height: 1.04;
+}
+
+.Intro .bio {
+  font-family: "Rajdhani", sans-serif;
+  font-weight: 400;
+  font-size: 21px;
+  width: 600px;
+}
+
+.contact {
+  font-family: "Rajdhani", sans-serif;
+  font-weight: 600;
+  font-size: 21px;
+  width: fit-content;
+}

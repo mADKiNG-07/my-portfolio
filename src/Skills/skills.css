@@ -1,0 +1,24 @@
+* {
+  font-family: "Rajdhani", sans-serif;
+}
+
+p {
+  line-height: 1.2;
+}
+
+.Skills .head {
+  font-size: 105px;
+  font-weight: 700;
+}
+
+.skill-list .flex p {
+  font-size: 35px;
+  font-weight: 700;
+  color: #5a5a5a;
+}
+
+.skill-list div .xp {
+  font-size: 18px;
+  font-weight: 400;
+  color: white;
+}
