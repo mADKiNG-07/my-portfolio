@@ -4,11 +4,17 @@ p {
   padding: 0;
 }
 
+/* .Intro {
+  background-image: url(../assets/pt.png);
+  opacity: 0.1;
+  background-size: cover;
+} */
+
 .Intro .greeting {
   font-size: 82px;
   font-family: "Rajdhani", sans-serif;
   font-weight: 700;
-  line-height: 1.04;
+  line-height: 1;
 }
 
 .Intro .bio {
